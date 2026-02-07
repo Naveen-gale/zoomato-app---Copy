@@ -1,4 +1,4 @@
-const FoodItem = require('../models/foodIteam.model');
+const FoodItem = require('../models/FoodIteam.model');
 const foodpatnerModel = require('../models/foodpatner.model');
 
 
